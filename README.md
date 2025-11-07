@@ -1,3 +1,9 @@
+November 6th, 2025. I am archiving this project to not delete it. Having it be here taking up a small digital space. The signification is that I tried, realized this wasn't how I wanted the page to be developed, and pivoted. 
+It's not the mark of failure, but recognizing that moving on and starting over can be an option. No matter how many times it takes to get it right. 
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
